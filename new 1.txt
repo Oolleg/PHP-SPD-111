@@ -1,0 +1,3 @@
+/* <li <?= $uri=='/basics' ? 'class="active"': ''?> ><a href="basics">Основи</a></li>
+		<li <?= $uri=='/layout' ? 'class="active"': ''?> ><a href="layout">Components</a></li>
+		<li><a href="collapsible.html">JavaScript</a></li>  */
