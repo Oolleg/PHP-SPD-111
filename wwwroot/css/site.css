@@ -1,0 +1,11 @@
+body {
+	background-color: #www;
+}
+
+.brand-logo img {
+	max-height: 50px;
+}
+
+.signText{
+	color: black;
+}
